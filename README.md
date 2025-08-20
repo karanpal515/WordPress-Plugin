@@ -1,6 +1,6 @@
 # WordPress-Plugin
  Custom Book Plugin
-Overview
+# Overview
 This WordPress plugin creates a custom post type "Book" with additional functionality for managing books, authors, genres, ratings, and dynamic frontend interactions.
 
 The plugin includes:
@@ -17,7 +17,7 @@ AJAX functionality for filtering and rating
 
 Automatic email notifications when a new book is published
 
-Features
+# Features 
 
 Custom Post Type
 
